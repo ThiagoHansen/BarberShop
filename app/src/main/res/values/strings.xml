@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BarberShop</string>
+    <string name="logo">logo</string>
+    <string name="nome">Nome</string>
+    <string name="Senha">Senha</string>
+    <string name="login">LOGIN</string>
+    <string name="bem_vindo_thiago">Bem-vindo, Thiago</string>
+    <string name="todos_os_servi_os">Todos os Serviços</string>
+    <string name="agendar">AGENDAR</string>
+    <string name="agendamento">Agendamento</string>
+    <string name="corte_de_cabelo">Corte de Cabelo</string>
+
+</resources>
